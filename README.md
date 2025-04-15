@@ -1,2 +1,2 @@
 # advanced-concepts-python
-this repo contains all advanced python concepts in an organized way
+This repo contains all advanced python concepts in an organized way
